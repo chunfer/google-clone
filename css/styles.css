@@ -199,4 +199,12 @@ footer span{
     font-weight: 540;
 }
 
+@media screen and (max-height: 768px){
+    .container{
+        margin-top: 0;
+    }
 
+    .buttons{
+        margin-left: -4px;
+    }
+}
