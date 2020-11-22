@@ -196,7 +196,6 @@ footer span{
 .footer-links a{
     color: rgb(112,117,122);
     padding-left: 23px;
-    font-weight: 540;
 }
 
 @media screen and (max-height: 768px){
